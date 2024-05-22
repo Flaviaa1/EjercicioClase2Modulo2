@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\modulo2Clase2\Ejercio2Modulo2-main\EjercicioClase2Modulo2\bin\Debug\net6.0\EjercicioClase2Modulo2.exe
+C:\Users\Gabriel\Documents\modulo2Clase2\Ejercio2Modulo2-main\EjercicioClase2Modulo2\bin\Debug\net6.0\EjercicioClase2Modulo2.deps.json
+C:\Users\Gabriel\Documents\modulo2Clase2\Ejercio2Modulo2-main\EjercicioClase2Modulo2\bin\Debug\net6.0\EjercicioClase2Modulo2.runtimeconfig.json
+C:\Users\Gabriel\Documents\modulo2Clase2\Ejercio2Modulo2-main\EjercicioClase2Modulo2\bin\Debug\net6.0\EjercicioClase2Modulo2.dll
+C:\Users\Gabriel\Documents\modulo2Clase2\Ejercio2Modulo2-main\EjercicioClase2Modulo2\bin\Debug\net6.0\EjercicioClase2Modulo2.pdb
+C:\Users\Gabriel\Documents\modulo2Clase2\Ejercio2Modulo2-main\EjercicioClase2Modulo2\obj\Debug\net6.0\EjercicioClase2Modulo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\modulo2Clase2\Ejercio2Modulo2-main\EjercicioClase2Modulo2\obj\Debug\net6.0\EjercicioClase2Modulo2.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\modulo2Clase2\Ejercio2Modulo2-main\EjercicioClase2Modulo2\obj\Debug\net6.0\EjercicioClase2Modulo2.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\modulo2Clase2\Ejercio2Modulo2-main\EjercicioClase2Modulo2\obj\Debug\net6.0\EjercicioClase2Modulo2.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\modulo2Clase2\Ejercio2Modulo2-main\EjercicioClase2Modulo2\obj\Debug\net6.0\EjercicioClase2Modulo2.dll
+C:\Users\Gabriel\Documents\modulo2Clase2\Ejercio2Modulo2-main\EjercicioClase2Modulo2\obj\Debug\net6.0\refint\EjercicioClase2Modulo2.dll
+C:\Users\Gabriel\Documents\modulo2Clase2\Ejercio2Modulo2-main\EjercicioClase2Modulo2\obj\Debug\net6.0\EjercicioClase2Modulo2.pdb
+C:\Users\Gabriel\Documents\modulo2Clase2\Ejercio2Modulo2-main\EjercicioClase2Modulo2\obj\Debug\net6.0\EjercicioClase2Modulo2.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\modulo2Clase2\Ejercio2Modulo2-main\EjercicioClase2Modulo2\obj\Debug\net6.0\ref\EjercicioClase2Modulo2.dll
